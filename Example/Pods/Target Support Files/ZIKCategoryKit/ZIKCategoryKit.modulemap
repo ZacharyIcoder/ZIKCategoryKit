@@ -1,0 +1,6 @@
+framework module ZIKCategoryKit {
+  umbrella header "ZIKCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

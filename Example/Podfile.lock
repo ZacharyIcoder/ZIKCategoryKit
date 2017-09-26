@@ -1,0 +1,16 @@
+PODS:
+  - ZIKCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - ZIKCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZIKCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZIKCategoryKit: 6c98295935bf5564df5ab2d09ddd0dd950fd2f98
+
+PODFILE CHECKSUM: aae3417293218db965070e98c0bb0f41784710a9
+
+COCOAPODS: 1.1.1
